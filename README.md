@@ -17,8 +17,6 @@ This project aims to enhance the presentation experience by developing a compute
 - **PyAutoGUI**: For simulating keyboard and mouse actions to control PowerPoint.
 
 
-## Demo
-![Demo GIF](link-to-demo-gif-or-video)
 
 ## Future Improvements
 - **Expand Gesture Library**: Add more gestures for additional control options.
