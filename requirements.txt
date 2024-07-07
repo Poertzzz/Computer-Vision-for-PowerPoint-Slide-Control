@@ -1,0 +1,4 @@
+PyAutoGUI == 0.9.54
+cvzone == 1.6.1
+mediapipe == 0.10.14
+opncv-python == 4.10.0.84
